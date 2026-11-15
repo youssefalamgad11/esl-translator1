@@ -1,0 +1,15 @@
+{
+  "language": "Egyptian Sign Language (لغة الإشارة المصرية)",
+  "version": 1,
+  "notes": "Each entry maps an Arabic word or phrase to ONE video in public/signs/. 'status' must stay 'placeholder' until the video has been replaced with a real, reviewed Egyptian Sign Language recording; then change it to 'verified'. Diacritics and alef/ya/ta-marbuta spelling variants are ignored when matching, so write each phrase once.",
+  "signs": [
+    { "id": "ana-bahebbak", "text": "أنا بحبك", "video": "ana-bahebbak.mp4", "status": "placeholder" },
+    { "id": "sabah-el-kheir", "text": "صباح الخير", "video": "sabah-el-kheir.mp4", "status": "placeholder" },
+    { "id": "masa-el-kheir", "text": "مساء الخير", "video": "masa-el-kheir.mp4", "status": "placeholder" },
+    { "id": "ana", "text": "أنا", "video": "ana.mp4", "status": "placeholder" },
+    { "id": "enta", "text": "أنت", "video": "enta.mp4", "status": "placeholder" },
+    { "id": "bahebbak", "text": "بحبك", "video": "bahebbak.mp4", "status": "placeholder" },
+    { "id": "shokran", "text": "شكراً", "video": "shokran.mp4", "status": "placeholder" },
+    { "id": "ezzayyak", "text": "إزيك", "video": "ezzayyak.mp4", "status": "placeholder" }
+  ]
+}
